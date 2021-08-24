@@ -1,4 +1,4 @@
-# Want to set live timer at snackbar in your flutter project?
+# Want to set a live timer at snackbar in your flutter project?
 
 ## Preview
 
